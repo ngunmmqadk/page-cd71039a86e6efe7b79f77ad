@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-afba8e3bdd.xibufanyong.cn/sitemap.xml
